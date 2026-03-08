@@ -127,6 +127,7 @@ Future work may include:
 ## Author
 
 Michael Agbenyegah
+
 Graduate Research Project – Data Science / AI in Agriculture
 
 ---
